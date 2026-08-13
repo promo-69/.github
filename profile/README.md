@@ -22,11 +22,11 @@ what is our ogranization all bout
 
 | Repositorio | Descripción | Stack Principal | Estado |
 | :--- | :--- | :--- | :--- |
-| **[`cineflix-backend`](../backend)** | API REST global, autenticación, lógica de negocio, base de datos y procesamiento de pagos. | Node.js, Express, MongoDB, TypeScript | 🟢 Production Ready |
-| **[`cineflix-ecommerce`](./cineflix-ecommerce)** | Portal web orientado al cliente final para consulta de cartelera, selección de asientos y compra de tickets/snacks. | React, Next.js, Tailwind CSS | 🟢 Production Ready |
-| **[`cineflix-backoffice`](./cineflix-backoffice)** | Intranet administrativa para gestión de salas, cartelera, promociones, reportes de ventas y roles. | React, TypeScript, Material UI | 🟢 Production Ready |
+| **[`cineflix-backend`](https://github.com/promo-69/backend)** | API REST global, autenticación, lógica de negocio, base de datos y procesamiento de pagos. | Node.js, Express, MongoDB, TypeScript | 🟢 Production Ready |
+| **[`cineflix-ecommerce`](https://github.com/promo-69/frontend-web)** | Portal web orientado al cliente final para consulta de cartelera, selección de asientos y compra de tickets/snacks. | React, Next.js, Tailwind CSS | 🟢 Production Ready |
+| **[`cineflix-backoffice`](https://github.com/promo-69/front-backoffice-intranet)** | Intranet administrativa para gestión de salas, cartelera, promociones, reportes de ventas y roles. | React, TypeScript, Material UI | 🟢 Production Ready |
 | **[`cineflix-taquilla`](./cineflix-taquilla)** | Sistema POS (Point of Sale) para venta rápida presencial y escaneo/validación de boletos. | React, Web API (QR Scanner) | 🟢 Production Ready |
-| **[`cineflix-mobile`](./cineflix-mobile)** | Aplicación móvil para experiencia rápida de cliente y validación de Check-In mediante QR. | React Native, Expo | 🟢 Production Ready |
+| **[`cineflix-mobile`](https://github.com/promo-69/frontend-mobile)** | Aplicación móvil para experiencia rápida de cliente y validación de Check-In mediante QR. | React Native, Expo | 🟢 Production Ready |
 
 ---
 ## 🇬🇧 English
